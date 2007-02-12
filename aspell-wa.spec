@@ -1,5 +1,5 @@
 Summary:	Waloon dictionary for aspell
-Summary(pl.UTF-8):   Słownik waloński dla aspella
+Summary(pl.UTF-8):	Słownik waloński dla aspella
 Name:		aspell-wa
 Version:	0.50
 %define	subv	0
