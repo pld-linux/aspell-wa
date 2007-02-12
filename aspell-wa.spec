@@ -1,5 +1,5 @@
 Summary:	Waloon dictionary for aspell
-Summary(pl):	S≥ownik waloÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik walo≈Ñski dla aspella
 Name:		aspell-wa
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Waloon dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik waloÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik walo≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
